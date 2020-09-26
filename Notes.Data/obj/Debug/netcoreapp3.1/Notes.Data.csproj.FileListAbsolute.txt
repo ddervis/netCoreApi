@@ -1,0 +1,14 @@
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.deps.json
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.dll
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.pdb
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.csprojAssemblyReference.cache
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.AssemblyInfoInputs.cache
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.AssemblyInfo.cs
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.dll
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.pdb
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Core.dll
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Core.pdb
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.csproj.CopyComplete
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.runtimeconfig.json
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.runtimeconfig.dev.json
+C:\Users\dervi\source\repos\NotesProject\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.genruntimeconfig.cache

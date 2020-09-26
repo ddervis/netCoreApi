@@ -1,0 +1,9 @@
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\bin\Debug\netcoreapp3.1\Notes.Service.deps.json
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\bin\Debug\netcoreapp3.1\Notes.Service.dll
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\bin\Debug\netcoreapp3.1\Notes.Service.pdb
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.csprojAssemblyReference.cache
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.AssemblyInfoInputs.cache
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.AssemblyInfo.cs
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.csproj.CoreCompileInputs.cache
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.dll
+C:\Users\dervi\source\repos\NotesProject\Notes.Service\obj\Debug\netcoreapp3.1\Notes.Service.pdb
